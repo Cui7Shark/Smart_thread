@@ -1,0 +1,6 @@
+/usr/local/workspace/autothread.h
+/usr/local/workspace/supervisor.h
+/usr/local/workspace/taskqueue.h
+/usr/local/workspace/utility.h
+/usr/local/workspace/workbranch.h
+/usr/local/workspace/workspace.h

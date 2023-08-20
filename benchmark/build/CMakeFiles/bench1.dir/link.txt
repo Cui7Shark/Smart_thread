@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -rdynamic CMakeFiles/bench1.dir/bench1.cc.o -o bench1  -lpthread 

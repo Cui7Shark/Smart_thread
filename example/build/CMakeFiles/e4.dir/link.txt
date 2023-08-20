@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/e4.dir/e4.cc.o -o e4  -lpthread 
