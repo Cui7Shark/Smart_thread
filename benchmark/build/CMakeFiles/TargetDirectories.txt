@@ -1,5 +1,0 @@
-/home/coding/Smart_thread/benchmark/build/CMakeFiles/edit_cache.dir
-/home/coding/Smart_thread/benchmark/build/CMakeFiles/rebuild_cache.dir
-/home/coding/Smart_thread/benchmark/build/CMakeFiles/bench3.dir
-/home/coding/Smart_thread/benchmark/build/CMakeFiles/bench1.dir
-/home/coding/Smart_thread/benchmark/build/CMakeFiles/bench2.dir

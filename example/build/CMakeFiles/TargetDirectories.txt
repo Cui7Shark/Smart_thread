@@ -1,8 +1,0 @@
-/home/coding/Smart_thread/example/build/CMakeFiles/rebuild_cache.dir
-/home/coding/Smart_thread/example/build/CMakeFiles/edit_cache.dir
-/home/coding/Smart_thread/example/build/CMakeFiles/e2.dir
-/home/coding/Smart_thread/example/build/CMakeFiles/e1.dir
-/home/coding/Smart_thread/example/build/CMakeFiles/e6.dir
-/home/coding/Smart_thread/example/build/CMakeFiles/e3.dir
-/home/coding/Smart_thread/example/build/CMakeFiles/e4.dir
-/home/coding/Smart_thread/example/build/CMakeFiles/e5.dir

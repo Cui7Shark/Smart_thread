@@ -1,6 +1,0 @@
-/home/coding/logistics_center/build/CMakeFiles/install/strip.dir
-/home/coding/logistics_center/build/CMakeFiles/install.dir
-/home/coding/logistics_center/build/CMakeFiles/install/local.dir
-/home/coding/logistics_center/build/CMakeFiles/list_install_components.dir
-/home/coding/logistics_center/build/CMakeFiles/edit_cache.dir
-/home/coding/logistics_center/build/CMakeFiles/rebuild_cache.dir

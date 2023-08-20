@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/e6.dir/e6.cc.o -o e6  -lpthread 
